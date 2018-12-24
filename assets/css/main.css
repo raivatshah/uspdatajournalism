@@ -223,7 +223,7 @@ ul li, ol li {
 
 .btn-common:hover {
   color: #fff;
-  background: #F50057;
+  background: #003D7C;
   box-shadow: 0 6px 22px rgba(0, 0, 0, 0.1);
   transition: all .2s ease-in-out;
   -moz-transition: all .2s ease-in-out;
@@ -1380,7 +1380,7 @@ a.back-to-top:hover, a.back-to-top:focus {
 }
 
 .team-item .overlay-social-icon .social-icons li a:hover .fa-instagram {
-  background: #fb3958;
+  background: #003D7C;
 }
 
 .team-item .info-text {
@@ -1685,7 +1685,7 @@ a.back-to-top:hover, a.back-to-top:focus {
 
 .list-unstyled li {
   margin-top: 10px;
-  color: #dc3545 !important;
+  color: #003D7C !important;
 }
 
 .text-danger {
