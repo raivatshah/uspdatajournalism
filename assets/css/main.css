@@ -2137,7 +2137,7 @@ a.back-to-top:hover, a.back-to-top:focus {
   text-transform: uppercase;
   letter-spacing: 0.1rem;
   margin-top: 30px;
-  text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+  text-shadow: -5px 0 white, 0 5px white, 5px 0 white, 0 -5px white;
 }
 
 #main-slide .carousel-item .carousel-caption p {
@@ -2154,7 +2154,6 @@ a.back-to-top:hover, a.back-to-top:focus {
   color: #003D7C;
   position: absolute;
   top: 35%;
-  text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
 }
 
 #main-slide .carousel-caption .btn {
