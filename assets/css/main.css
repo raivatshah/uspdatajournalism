@@ -231,9 +231,9 @@ ul li, ol li {
 }
 
 .btn-border {
-  color: #fff;
+  color: #003D7C;
   background-color: transparent;
-  border: 1px solid #fff;
+  border: 1px solid #003D7C;
 }
 
 .btn-border:hover {
